@@ -455,7 +455,7 @@ def render_logout_button():
 # -------------------------
 def main():
     st.set_page_config(
-        page_title="Tenant Legal Assistant",
+        page_title="RAG Chatbot Assistant",
         page_icon="🏠",
         layout="wide",
         initial_sidebar_state="expanded"
@@ -495,7 +495,7 @@ def main():
             render_logout_button()
         st.markdown("---")
         st.markdown("### ℹ️ About")
-        st.caption("AI-powered tenant legal assistant for document analysis and legal queries.")
+        st.caption("AI-powered RAG Chatbot Assistant [Scrape Website and Document QnA]")
 
     # Global messages
     render_messages()
