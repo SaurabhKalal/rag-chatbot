@@ -515,7 +515,7 @@ export default function DualInterface() {
             <div className="text-center mb-12">
               <div className="flex justify-center items-center gap-3 mb-4">
                 <h1 className="text-4xl font-black bg-gradient-to-r from-cyan-400 via-blue-400 to-purple-400 bg-clip-text text-transparent">
-                  Tenant Legal Assistant   
+                  RAG Chatbot Assistant   
                 </h1>
               </div>
             </div>
