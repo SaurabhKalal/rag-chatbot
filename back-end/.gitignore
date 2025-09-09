@@ -1,0 +1,78 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# VS Code settings
+.vscode/
+
+# Environment variables
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Log files
+*.log
+
+# Scrapy output
+*.jl
+*.json
+output.json
+
+# Jupyter and IPython
+.ipynb_checkpoints/
+
+# Python package build artifacts
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Pip files
+pip-log.txt
+pip-delete-this-directory.txt
+
+# MyPy, Pyright, Pylint
+.mypy_cache/
+.pyright/
+.pyre/
+.pytype/
+
+# Pytest cache
+.pytest_cache/
+
+# Coverage reports
+.coverage
+htmlcov/
+.tox/
+nosetests.xml
+coverage.xml
+*.cover
+*.py,cover
+
+# FastAPI cache/temp files
+*.db
+*.sqlite3
+
+# Streamlit cache
+.streamlit/config.toml
+.streamlit/credentials.toml
+.streamlit/secrets.toml
